@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Glittering Blackness',
+  name: '江河故人',
   domain: 'note.113812.xyz',
-  author: 'XY',
+  author: '江河故人',
 
   // open graph metadata (optional)
   description: '笔记',
