@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'XY',
 
   // open graph metadata (optional)
-  description: '记录',
+  description: '笔记',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
